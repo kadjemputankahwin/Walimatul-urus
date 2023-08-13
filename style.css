@@ -1520,6 +1520,6 @@ body {
   }
   100% {
     transform: translate(0, 666.6666666667px);
-    opacity: 0;
+    opacity: 0.75;
   }
 }
